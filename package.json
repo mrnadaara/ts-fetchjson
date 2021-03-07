@@ -1,0 +1,23 @@
+{
+  "name": "ts-fetchjson",
+  "version": "1.0.0",
+  "description": "Test repo for Fetching data with Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrnadaara/ts-fetchjson.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrnadaara/ts-fetchjson/issues"
+  },
+  "homepage": "https://github.com/mrnadaara/ts-fetchjson#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
